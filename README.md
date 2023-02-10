@@ -1,0 +1,2 @@
+# CookieClicker
+ An automated cookieclicker 
